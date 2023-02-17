@@ -7,7 +7,7 @@
 ## Skills
 
 - Bypassing Android Security ([ADB](https://developer.android.com/studio/command-line/adb) / [userdebug builds](https://source.android.com/docs/setup/build/building#choose-a-target) / Custom Recoveries)
-- Flashing custorm firmware on embembedded devices​ (OpenWRT / DD-WRT)
+- Flashing custorm firmware on embedded devices​ (OpenWRT / DD-WRT)
 - Basic Python Skills and Scripting
 
 If you have any questions, feel free to reach out on [Twitter](https://twitter.com/paperuu511) as I'm most active there.
