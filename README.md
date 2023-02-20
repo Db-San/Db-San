@@ -1,4 +1,4 @@
-# About me
+# Things I Do
 
 - bypass [Android security](https://source.android.com/docs/security/features) with [adb](https://developer.android.com/studio/command-line/)
 - secure routers with [OpenWrt](https://openwrt.org/about)
